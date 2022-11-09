@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b877ba65.css",
+    "main.js": "/static/js/main.3eceb21c.js",
+    "static/js/787.2da08811.chunk.js": "/static/js/787.2da08811.chunk.js",
+    "static/media/brietling.png": "/static/media/brietling.433e816e717c48049f53.png",
+    "static/media/panzera2.webp": "/static/media/panzera2.71ded7ce3bf96545a2b4.webp",
+    "static/media/brietling3.webp": "/static/media/brietling3.e56e08294ee2657f86e8.webp",
+    "static/media/brietling2.webp": "/static/media/brietling2.9b15ea5f7e0dc80735dd.webp",
+    "static/media/lgScreen.jpg": "/static/media/lgScreen.91a26644397edf9f05e1.jpg",
+    "static/media/macbookair.jpeg": "/static/media/macbookair.463b512bbe03c4496987.jpeg",
+    "static/media/sieko2.jpg": "/static/media/sieko2.3e7803bf24acddb403bb.jpg",
+    "static/media/panzera1.webp": "/static/media/panzera1.fe89e8b24a32f49b0de6.webp",
+    "static/media/footrest.jpg": "/static/media/footrest.9d93f2ea8d6baec336aa.jpg",
+    "static/media/sieko3.jpg": "/static/media/sieko3.0efb13b691f0633bf293.jpg",
+    "static/media/gameboy.jpg": "/static/media/gameboy.b3cbcd82d83cfed409a3.jpg",
+    "static/media/lens.jpg": "/static/media/lens.25f822c64bd57baaebc4.jpg",
+    "static/media/screenbarbenq.webp": "/static/media/screenbarbenq.9a082a6d322ebf467919.webp",
+    "static/media/floorlamp.jpg": "/static/media/floorlamp.d718548e676544a9e412.jpg",
+    "index.html": "/index.html",
+    "main.b877ba65.css.map": "/static/css/main.b877ba65.css.map",
+    "main.3eceb21c.js.map": "/static/js/main.3eceb21c.js.map",
+    "787.2da08811.chunk.js.map": "/static/js/787.2da08811.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b877ba65.css",
+    "static/js/main.3eceb21c.js"
+  ]
+}
