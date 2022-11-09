@@ -1,0 +1,21 @@
+body {
+  
+  margin: 0;
+    padding: 0;
+    font-weight: 600;
+    line-height: 1.5;
+    font-size: 18px;
+    letter-spacing: 0.1em;
+    background: var(--light);
+    color: var(--dark);
+    font-family: "arial", cursive;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.cardspacing{
+margin: 10px;
+}
